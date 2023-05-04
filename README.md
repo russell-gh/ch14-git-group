@@ -1,5 +1,9 @@
 # ch14-git-group
 
+###
+
+git clone https://github.com/russell-gh/ch14-git-group.git
+
 ### creates a branch and switched to it
 
 git checkout -b YOUR_NAME
